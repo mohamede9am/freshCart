@@ -1,0 +1,6 @@
+footer {
+    background-color: #eee;
+}
+.sal {
+    background-color: var(--main-color) !important;
+}
